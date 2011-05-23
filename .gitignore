@@ -1,0 +1,6 @@
+*.komodoproject
+__backup/*
+__log/*.log
+__tmp/*
+test.application.php
+template.html

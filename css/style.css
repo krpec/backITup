@@ -1,0 +1,125 @@
+* {
+	padding:0px;
+	margin:0px;
+}
+
+body {
+	margin:10px;
+}
+
+body > header {
+	border-bottom:1px solid #CCC;
+	background-color:#EEE;
+	padding:2px;
+}
+
+h1 {
+	display:inline-block;
+}
+
+h1 a {
+	text-decoration:none;
+	color:#000;
+}
+
+h2 {
+	display:inline-block;
+}
+
+
+span#version {
+	font-size:x-small;
+}
+
+span.section-head-link {
+	margin-left:5px;
+	font-size:small;
+}
+
+section {
+	margin-top:5px;
+	margin-bottom:5px;
+	padding-bottom:5px;
+	border-bottom:1px solid #CCC;
+}
+
+table.datagrid {
+	margin-top:10px;
+}
+
+table.datagrid th, td {
+	padding:3px;
+}
+
+table.datagrid th {
+	background-color:#DDD;
+	border:1px solid #CCC;
+}
+
+table.datagrid td {
+	text-align:center;
+}
+
+table.datagrid tr {
+	background-color:#EEE;
+}
+
+table.datagrid tr:hover {
+	background-color:#A5CAFF;
+}
+
+.icon {
+	width:16px;
+	height:16px;
+	display:block;
+	float:left;
+	margin-right:2px;
+}
+
+.icon-no-float {
+	width:16px;
+	height:16px;
+	display:inline-block;
+	margin-right:2px;
+}
+
+.icon-new {
+	background:url(../img/page_add.png) no-repeat;
+}
+
+.icon-edit {
+	background:url(../img/page_edit.png) no-repeat;
+}
+
+.icon-delete {
+	background:url(../img/page_delete.png) no-repeat;
+}
+
+.icon-refresh {
+	background:url(../img/arrow_refresh.png) no-repeat;
+}
+
+.icon-red-flag {
+	background:url(../img/flag_red.png) no-repeat;
+}
+
+.icon-green-flag {
+	background:url(../img/flag_green.png) no-repeat;
+}
+
+.icon-disk {
+	background:url(../img/disk.png) no-repeat;
+}
+
+.x-small {
+	font-size:x-small;
+}
+
+textarea {
+	width:1200px;
+	height:300px;
+}
+
+footer {
+	font-size:small;	
+}

@@ -1,0 +1,5 @@
+backITup
+
+@author: Roman Dittrich (krpec) dittrich.r@gmail.com
+
+PHP application to backup FTP and MySQL with automatic backup using cron
